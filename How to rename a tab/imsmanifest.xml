@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6jDF7n97TT0" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">How to rename a tab</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="How_to_rename_a_tab_ORG">
+    <organization identifier="How_to_rename_a_tab_ORG">
+      <title>How to rename a tab</title>
+      <item identifier="How_to_rename_a_tab_SCO" isvisible="true" identifierref="__6jDF7n97TT0_RES">
+        <title>How to rename a tab</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6jDF7n97TT0_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/6OOJ7n0oFmZ_44100_48_0.mp3" />
+      <file href="mobile/6ikNtQrhvNg.png" />
+      <file href="mobile/5fd6jHfgN2B_P_0_34_1366_604.png" />
+      <file href="story_content/6F39R09ZZdj_44100_48_0.mp3" />
+      <file href="mobile/6kTxVvm8d1E.png" />
+      <file href="mobile/6bVB2BLpydw_P_0_34_1366_734.png" />
+      <file href="story_content/63xCuKDLxe8_44100_48_0.mp3" />
+      <file href="mobile/6A7gi3SEBRt.png" />
+      <file href="mobile/6YxIaPILLYx_P_0_34_1366_604.png" />
+      <file href="story_content/62aQzkyaKZv_44100_48_0.mp3" />
+      <file href="mobile/6qwZ8hxoYkj.png" />
+      <file href="mobile/682sk2rYyu5_P_0_34_1366_604.png" />
+      <file href="story_content/5tlYF6wsuzb_44100_48_0.mp3" />
+      <file href="mobile/5blqYuUqTQm.png" />
+      <file href="mobile/6gN8Eb2whuH_P_0_34_1366_604.png" />
+      <file href="story_content/60HyH7PlnJV_44100_48_0.mp3" />
+      <file href="mobile/5qSZD1sjxs8.png" />
+      <file href="mobile/5uz8JSiv08T.png" />
+      <file href="story_content/63rbrGT1GYS_44100_48_0.mp3" />
+      <file href="mobile/6AvgBECRjOx.png" />
+      <file href="mobile/6jfQ4HciF4X.png" />
+      <file href="mobile/6Zwl2hZZAon.png" />
+      <file href="mobile/6VrIAZExWLV.png" />
+      <file href="story_content/6NUcKf9VptU_44100_48_0.mp3" />
+      <file href="mobile/5XBHyzes8Sb.png" />
+      <file href="mobile/680QXTX2f5o_P_0_34_1366_604.png" />
+      <file href="story_content/6ZVBK08HWbV_44100_48_0.mp3" />
+      <file href="mobile/6MQG9YiZZgz.png" />
+      <file href="mobile/6DlfRgiLeFE_P_0_34_1366_734.png" />
+      <file href="story_content/6YQOLBmaCVL_44100_48_0.mp3" />
+      <file href="mobile/6r4kGfPn62a.png" />
+      <file href="mobile/6C9dz0mOAoH.jpg" />
+      <file href="mobile/5f54yVpLezX.png" />
+      <file href="mobile/5sbnHVvEdpO.png" />
+      <file href="mobile/6o7EMfpG6SK.png" />
+      <file href="mobile/6TpWI9dXbfM.png" />
+      <file href="mobile/6WErVdTJcga.png" />
+      <file href="mobile/6WYdxMGv5MY.png" />
+      <file href="mobile/6h2i2pSVfNZ.png" />
+      <file href="mobile/5vLSr7OnJSE.png" />
+      <file href="mobile/6AjMFKRagzw.png" />
+      <file href="story_content/5d7hFOLmVPC_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bjhegrvhU4.js" />
+      <file href="html5/data/js/5gd80kIwxhg.js" />
+      <file href="html5/data/js/5kr2b9VZRc3.js" />
+      <file href="html5/data/js/6coCuGdUMT3.js" />
+      <file href="html5/data/js/6FaNo65H97q.js" />
+      <file href="html5/data/js/6HdSBlRthwP.js" />
+      <file href="html5/data/js/6iuimFHnkmw.js" />
+      <file href="html5/data/js/6iXvrg5IEbc.js" />
+      <file href="html5/data/js/6oPZKyaUDWw.js" />
+      <file href="html5/data/js/6pURFAgrYro.js" />
+      <file href="html5/data/js/6pZRcbsrHZ8.js" />
+      <file href="html5/data/js/6VuwyujZdY4.js" />
+      <file href="html5/data/js/6Xrw3JTMkqn.js" />
+      <file href="html5/data/js/6ZlpSBZcp0E.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6jDF7n97TT0" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">How to add a formula or function from one workbook to another</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="How_to_add_a_formula_or_function_from_one_workbook_to_another_ORG">
+    <organization identifier="How_to_add_a_formula_or_function_from_one_workbook_to_another_ORG">
+      <title>How to add a formula or function from one workbook to another</title>
+      <item identifier="How_to_add_a_formula_or_function_from_one_workbook_to_another_SCO" isvisible="true" identifierref="__6jDF7n97TT0_RES">
+        <title>How to add a formula or function from one workbook to another</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6jDF7n97TT0_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/5sp5YUt0hZg_44100_48_0.mp3" />
+      <file href="mobile/5X71ZV0o0ll.png" />
+      <file href="story_content/65wtJcD7eD3_44100_48_0.mp3" />
+      <file href="mobile/6Xo0KJpez7i.png" />
+      <file href="story_content/5tnRAaSElWe_44100_48_0.mp3" />
+      <file href="mobile/6LIvay1t1MF.png" />
+      <file href="mobile/6VgGHOZ3zsx_P_0_34_1366_604.png" />
+      <file href="story_content/6LvcNIqX5X2_44100_48_0.mp3" />
+      <file href="mobile/5cx98mtGKSn.png" />
+      <file href="mobile/6ITRKPkhy6h_P_0_34_1366_604.png" />
+      <file href="story_content/5r8DrjEthfu_44100_48_0.mp3" />
+      <file href="mobile/6gUUf3IbMfM.png" />
+      <file href="mobile/5hrqHPKFMob_P_0_34_1366_604.png" />
+      <file href="story_content/6RDJEjlh3RD_44100_48_0.mp3" />
+      <file href="mobile/5pAhdoTQd0j.png" />
+      <file href="story_content/66L6NdgmE5S_44100_48_0.mp3" />
+      <file href="mobile/66dKU0q4cWU.png" />
+      <file href="mobile/6i4tMOrAxJf_P_0_34_1366_734.png" />
+      <file href="mobile/5aJJ6XM6GOK_P_0_34_1366_604.png" />
+      <file href="mobile/5gHkWUAETq8_P_0_34_1366_604.png" />
+      <file href="mobile/6l40RAQCQuz_P_0_34_1366_604.png" />
+      <file href="story_content/6VZOs1Oi9DB_44100_48_0.mp3" />
+      <file href="mobile/657pBau9o6E.png" />
+      <file href="mobile/6ZTNvOLfnDy.png" />
+      <file href="story_content/6cuhG39oFIE_44100_48_0.mp3" />
+      <file href="mobile/5W6rCoS1R0v.png" />
+      <file href="mobile/6C9dz0mOAoH.jpg" />
+      <file href="mobile/5f54yVpLezX.png" />
+      <file href="mobile/5sbnHVvEdpO.png" />
+      <file href="mobile/6o7EMfpG6SK.png" />
+      <file href="mobile/6TpWI9dXbfM.png" />
+      <file href="mobile/6WErVdTJcga.png" />
+      <file href="mobile/6WYdxMGv5MY.png" />
+      <file href="mobile/6h2i2pSVfNZ.png" />
+      <file href="mobile/5vLSr7OnJSE.png" />
+      <file href="mobile/6AjMFKRagzw.png" />
+      <file href="story_content/5d7hFOLmVPC_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5c9TYidfEog.js" />
+      <file href="html5/data/js/5vlmJUmbp22.js" />
+      <file href="html5/data/js/69ddKMz1xGO.js" />
+      <file href="html5/data/js/6cOPtUeEjtV.js" />
+      <file href="html5/data/js/6eQJFjx7nsY.js" />
+      <file href="html5/data/js/6jVyAaQqclP.js" />
+      <file href="html5/data/js/6Oqgo28UGHB.js" />
+      <file href="html5/data/js/6pZ6CVp0JZy.js" />
+      <file href="html5/data/js/6SN7Xt9AVsm.js" />
+      <file href="html5/data/js/6SwLQR4vScF.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

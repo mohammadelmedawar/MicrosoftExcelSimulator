@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6jDF7n97TT0" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">How to apply the BOTTOM filter in a Pivot Table</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="How_to_apply_the_BOTTOM_filter_in_a_Pivot_Table_ORG">
+    <organization identifier="How_to_apply_the_BOTTOM_filter_in_a_Pivot_Table_ORG">
+      <title>How to apply the BOTTOM filter in a Pivot Table</title>
+      <item identifier="How_to_apply_the_BOTTOM_filter_in_a_Pivot_Table_SCO" isvisible="true" identifierref="__6jDF7n97TT0_RES">
+        <title>How to apply the BOTTOM filter in a Pivot Table</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6jDF7n97TT0_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/5kc1SboAbo0_44100_48_0.mp3" />
+      <file href="mobile/69Ord85trQH.png" />
+      <file href="mobile/6bdkIic17Vd_P_0_34_1366_604.png" />
+      <file href="story_content/6o0NbTgrT9E_44100_48_0.mp3" />
+      <file href="mobile/6UJix7al4fh.png" />
+      <file href="mobile/6BBjlAsV9BH_P_1046_34_320_734.png" />
+      <file href="story_content/6qirMz6lEak_44100_48_0.mp3" />
+      <file href="mobile/5hHTCHk6iFz.png" />
+      <file href="story_content/6N2k3IYhrVb_44100_48_0.mp3" />
+      <file href="mobile/67i7qmJTrZE.png" />
+      <file href="story_content/6ibzSl8t6Ie_44100_48_0.mp3" />
+      <file href="mobile/6H1LqG6cfLE.png" />
+      <file href="mobile/5ZU9eIYTOuB_P_0_34_1366_734.png" />
+      <file href="story_content/6WJScKiVgUt_44100_48_0.mp3" />
+      <file href="mobile/5ztY23tBRvk.png" />
+      <file href="mobile/6LUGZYGe8Az_P_0_34_1366_604.png" />
+      <file href="story_content/5vWxyRs2E5i_44100_48_0.mp3" />
+      <file href="mobile/5rSN1QQx2Fs.png" />
+      <file href="mobile/5oRYehL9tKH_P_0_34_1366_604.png" />
+      <file href="story_content/6W3ika63kuH_44100_48_0.mp3" />
+      <file href="mobile/6GHLzEE7ZNp.png" />
+      <file href="story_content/5nPQaHxGnRU_44100_48_0.mp3" />
+      <file href="mobile/6cOPM5GOIUn.png" />
+      <file href="mobile/5YwLHeR4IwY.png" />
+      <file href="story_content/62MERCVE25K_44100_48_0.mp3" />
+      <file href="mobile/69Fjj5F5uTc.png" />
+      <file href="mobile/5q1wwdcl9t6_P_0_34_1366_604.png" />
+      <file href="story_content/6kQI7svNICO_44100_48_0.mp3" />
+      <file href="mobile/6cq1pV9mupL.png" />
+      <file href="mobile/6C9dz0mOAoH.jpg" />
+      <file href="mobile/5f54yVpLezX.png" />
+      <file href="mobile/5sbnHVvEdpO.png" />
+      <file href="mobile/6o7EMfpG6SK.png" />
+      <file href="mobile/6TpWI9dXbfM.png" />
+      <file href="mobile/6WErVdTJcga.png" />
+      <file href="mobile/6WYdxMGv5MY.png" />
+      <file href="mobile/6h2i2pSVfNZ.png" />
+      <file href="mobile/5vLSr7OnJSE.png" />
+      <file href="mobile/6AjMFKRagzw.png" />
+      <file href="story_content/5d7hFOLmVPC_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bDn05QzfJ5.js" />
+      <file href="html5/data/js/5dk2AhQvVKe.js" />
+      <file href="html5/data/js/5mHUG7rUnV6.js" />
+      <file href="html5/data/js/69OF7ji3wj9.js" />
+      <file href="html5/data/js/6Cx8clBe44g.js" />
+      <file href="html5/data/js/6dfVodv00S5.js" />
+      <file href="html5/data/js/6dLNdam0G6x.js" />
+      <file href="html5/data/js/6e2HfIl6s7e.js" />
+      <file href="html5/data/js/6EHKOMBuMLj.js" />
+      <file href="html5/data/js/6I0O0SCq3CW.js" />
+      <file href="html5/data/js/6N3yZ0xfiKb.js" />
+      <file href="html5/data/js/6q5ym2G95D4.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

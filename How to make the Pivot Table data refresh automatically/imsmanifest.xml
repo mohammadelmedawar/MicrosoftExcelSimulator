@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6jDF7n97TT0" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">How to make the Pivot Table data refresh automatically</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="How_to_make_the_Pivot_Table_data_refresh_automatically_ORG">
+    <organization identifier="How_to_make_the_Pivot_Table_data_refresh_automatically_ORG">
+      <title>How to make the Pivot Table data refresh automatically</title>
+      <item identifier="How_to_make_the_Pivot_Table_data_refresh_automatically_SCO" isvisible="true" identifierref="__6jDF7n97TT0_RES">
+        <title>How to make the Pivot Table data refresh automatically</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6jDF7n97TT0_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/5yUQQjOKc44_44100_48_0.mp3" />
+      <file href="mobile/5ySoNTX5tOR.png" />
+      <file href="mobile/5g2dPQutGMc_P_0_34_1366_604.png" />
+      <file href="story_content/6LjpIFslktR_44100_48_0.mp3" />
+      <file href="mobile/5dZOygkpXsR.png" />
+      <file href="mobile/6SO5VKcGgHk_P_0_34_1366_604.png" />
+      <file href="story_content/5csc29vCWTB_44100_48_0.mp3" />
+      <file href="mobile/6QGx36TIow1.png" />
+      <file href="mobile/6iAR9ECspv6_P_0_34_1366_604.png" />
+      <file href="story_content/6MZgtny5rvG_44100_48_0.mp3" />
+      <file href="mobile/6aNwvyUpDMj.png" />
+      <file href="mobile/64uElkkbjbN_P_0_34_1366_604.png" />
+      <file href="story_content/6DmEcwPKD8i_44100_48_0.mp3" />
+      <file href="mobile/6aJcPJ3FjJy.png" />
+      <file href="mobile/6qGWuYg0RKG_P_0_34_1366_604.png" />
+      <file href="story_content/6QrQCwJ91RV_44100_48_0.mp3" />
+      <file href="mobile/6mdU1aoXn61.png" />
+      <file href="mobile/6C9dz0mOAoH.jpg" />
+      <file href="mobile/5f54yVpLezX.png" />
+      <file href="mobile/5sbnHVvEdpO.png" />
+      <file href="mobile/6o7EMfpG6SK.png" />
+      <file href="mobile/6TpWI9dXbfM.png" />
+      <file href="mobile/6WErVdTJcga.png" />
+      <file href="mobile/6WYdxMGv5MY.png" />
+      <file href="mobile/6h2i2pSVfNZ.png" />
+      <file href="mobile/5vLSr7OnJSE.png" />
+      <file href="mobile/6AjMFKRagzw.png" />
+      <file href="story_content/5d7hFOLmVPC_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5b9iPXRIcZ1.js" />
+      <file href="html5/data/js/5eqriZGti4u.js" />
+      <file href="html5/data/js/5hBIqpyxSR8.js" />
+      <file href="html5/data/js/66kQtIgkyIk.js" />
+      <file href="html5/data/js/6G9MaNjmcdy.js" />
+      <file href="html5/data/js/6kuCjrw4Hyj.js" />
+      <file href="html5/data/js/6M83nuHh6hq.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

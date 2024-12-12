@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6SmX1lLkrRI" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">How to enter data</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="How_to_enter_data_ORG">
+    <organization identifier="How_to_enter_data_ORG">
+      <title>How to enter data</title>
+      <item identifier="Untitled1_SCO" isvisible="true" identifierref="__6SmX1lLkrRI_RES">
+        <title>How to enter data</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6SmX1lLkrRI_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5sfAjmuiUkq.png" />
+      <file href="story_content/5sF8JRKb8fm_44100_48_0.mp3" />
+      <file href="mobile/6JXDKlC0fOe.png" />
+      <file href="story_content/5dBtsw9maz5_44100_48_0.mp3" />
+      <file href="mobile/5k3ZosFozo7.png" />
+      <file href="mobile/5dznaM2u7nI.png" />
+      <file href="story_content/5WiRdVttuV9_44100_48_0.mp3" />
+      <file href="mobile/6Hi5ntA2mIk.png" />
+      <file href="story_content/6ibv50uC7w4_44100_48_0.mp3" />
+      <file href="story_content/6lAxUoIvDXw_44100_48_0.mp3" />
+      <file href="mobile/6Wu7vok0S08.png" />
+      <file href="story_content/5wmph9Gk0s5_44100_48_0.mp3" />
+      <file href="mobile/67l54A3ZdKo.png" />
+      <file href="story_content/6XiYyZNDj1O_44100_48_0.mp3" />
+      <file href="story_content/5oNX0KhHCOB_44100_48_0.mp3" />
+      <file href="mobile/6cVw1RQlTJG.png" />
+      <file href="story_content/5WFsoiWnz80_44100_48_0.mp3" />
+      <file href="mobile/66hNRMAblsX.png" />
+      <file href="story_content/6B1pbv4ifJ9_44100_48_0.mp3" />
+      <file href="story_content/6S1SdMhoiEb_44100_48_0.mp3" />
+      <file href="mobile/6C9dz0mOAoH.jpg" />
+      <file href="mobile/5f54yVpLezX.png" />
+      <file href="mobile/5sbnHVvEdpO.png" />
+      <file href="mobile/6o7EMfpG6SK.png" />
+      <file href="mobile/6TpWI9dXbfM.png" />
+      <file href="mobile/6WErVdTJcga.png" />
+      <file href="mobile/6WYdxMGv5MY.png" />
+      <file href="mobile/6h2i2pSVfNZ.png" />
+      <file href="mobile/5vLSr7OnJSE.png" />
+      <file href="mobile/6AjMFKRagzw.png" />
+      <file href="story_content/5d7hFOLmVPC_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5iC5q7vrHNl.js" />
+      <file href="html5/data/js/5kwhZyqy3qv.js" />
+      <file href="html5/data/js/5oPjuoTRvbl.js" />
+      <file href="html5/data/js/5pK2Ckk7Zdw.js" />
+      <file href="html5/data/js/5qQGKz94zE9.js" />
+      <file href="html5/data/js/5vPQsgNG1i5.js" />
+      <file href="html5/data/js/603FS1B1R45.js" />
+      <file href="html5/data/js/660yPRZcQXU.js" />
+      <file href="html5/data/js/672ZUlgqbEi.js" />
+      <file href="html5/data/js/6ip3gkxXrkN.js" />
+      <file href="html5/data/js/6LwS1OPDnIN.js" />
+      <file href="html5/data/js/6PeTE9HNGso.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

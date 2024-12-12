@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6jDF7n97TT0" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">How to refresh the Pivot Table data</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="How_to_refresh_the_Pivot_Table_data_ORG">
+    <organization identifier="How_to_refresh_the_Pivot_Table_data_ORG">
+      <title>How to refresh the Pivot Table data</title>
+      <item identifier="How_to_refresh_the_Pivot_Table_data_SCO" isvisible="true" identifierref="__6jDF7n97TT0_RES">
+        <title>How to refresh the Pivot Table data</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6jDF7n97TT0_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/61ChUT8sNqE_44100_48_0.mp3" />
+      <file href="mobile/5qqimH2dgPe.png" />
+      <file href="mobile/6mGkAfovtSz_P_0_715_1366_52.png" />
+      <file href="story_content/5pzzi76gNEs_44100_48_0.mp3" />
+      <file href="mobile/5ZRMLJf0Ku6.png" />
+      <file href="story_content/6F1m8xOB8e3_44100_48_0.mp3" />
+      <file href="mobile/6S7K8HMZGrc.png" />
+      <file href="mobile/6SeLITSIqeW.png" />
+      <file href="mobile/5hoUTEUn5rU_P_0_34_1366_734.png" />
+      <file href="mobile/5XAEJ7ETq8k_P_0_34_1366_734.png" />
+      <file href="story_content/6hKQBPAEdr5_44100_48_0.mp3" />
+      <file href="mobile/6W7V2Vwlxs9.png" />
+      <file href="story_content/6obaNeYkm4C_44100_48_0.mp3" />
+      <file href="mobile/6DuGIIBRnO3.png" />
+      <file href="mobile/6FHxG2eu21G_P_0_715_1366_52.png" />
+      <file href="story_content/6D5bdl3kZq4_44100_48_0.mp3" />
+      <file href="mobile/6kckGasBLdk.png" />
+      <file href="mobile/6Rzyng8FYYS_P_0_34_1366_604.png" />
+      <file href="story_content/5zh0UqLtvVG_44100_48_0.mp3" />
+      <file href="mobile/5bDOyO6NXce.png" />
+      <file href="mobile/6BppIg5224A_P_0_34_1366_604.png" />
+      <file href="story_content/5V3im8A2Yx7_44100_48_0.mp3" />
+      <file href="mobile/6N04DlFf3UQ.png" />
+      <file href="mobile/6C9dz0mOAoH.jpg" />
+      <file href="mobile/5f54yVpLezX.png" />
+      <file href="mobile/5sbnHVvEdpO.png" />
+      <file href="mobile/6o7EMfpG6SK.png" />
+      <file href="mobile/6TpWI9dXbfM.png" />
+      <file href="mobile/6WErVdTJcga.png" />
+      <file href="mobile/6WYdxMGv5MY.png" />
+      <file href="mobile/6h2i2pSVfNZ.png" />
+      <file href="mobile/5vLSr7OnJSE.png" />
+      <file href="mobile/6AjMFKRagzw.png" />
+      <file href="story_content/5d7hFOLmVPC_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_5mDrECHZq3e.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5wdXrgdEqCC.js" />
+      <file href="html5/data/js/64p1eM1jACN.js" />
+      <file href="html5/data/js/67y31kM1Q4R.js" />
+      <file href="html5/data/js/6BzNoqEa0f3.js" />
+      <file href="html5/data/js/6kWFoYSfhTH.js" />
+      <file href="html5/data/js/6NW0ZLTNZBI.js" />
+      <file href="html5/data/js/6QSHzyTtxxs.js" />
+      <file href="html5/data/js/6QTQKsK3pbz.js" />
+      <file href="html5/data/js/6Wrtfekogel.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

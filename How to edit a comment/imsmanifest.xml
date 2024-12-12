@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6oMzzFSKYYW" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">How to edit a comment</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="How_to_edit_a_comment_ORG">
+    <organization identifier="How_to_edit_a_comment_ORG">
+      <title>How to edit a comment</title>
+      <item identifier="How_to_edit_a_comment_SCO" isvisible="true" identifierref="__6oMzzFSKYYW_RES">
+        <title>How to edit a comment</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6oMzzFSKYYW_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/5wLyMzpQJX3_44100_48_0.mp3" />
+      <file href="mobile/6kREIngzZ9C.png" />
+      <file href="story_content/6b9zTaJ6SsV_44100_48_0.mp3" />
+      <file href="mobile/5dC2zwOzKxQ.png" />
+      <file href="mobile/6c7zfJVXfxG_P_0_34_1366_604.png" />
+      <file href="story_content/5lSqO0PuERo_44100_48_0.mp3" />
+      <file href="mobile/5vNMXJmLczb.png" />
+      <file href="mobile/5g6xOmxg6nf_P_0_34_1366_604.png" />
+      <file href="story_content/5wVXdqhR4TP_44100_48_0.mp3" />
+      <file href="mobile/5zZViULqoby.png" />
+      <file href="mobile/6HlHFi5s1FF.png" />
+      <file href="mobile/6FdpydaJaWK.png" />
+      <file href="mobile/5XRabszDNaS.png" />
+      <file href="mobile/5WFAn5ch2YP.png" />
+      <file href="story_content/60PqAd991wq_44100_48_0.mp3" />
+      <file href="mobile/5fHH9NUS2PC.png" />
+      <file href="story_content/5eJPhaRfJKl_44100_48_0.mp3" />
+      <file href="mobile/6elolPDY5Hw.png" />
+      <file href="mobile/6C9dz0mOAoH.jpg" />
+      <file href="mobile/5f54yVpLezX.png" />
+      <file href="mobile/5sbnHVvEdpO.png" />
+      <file href="mobile/6o7EMfpG6SK.png" />
+      <file href="mobile/6TpWI9dXbfM.png" />
+      <file href="mobile/6WErVdTJcga.png" />
+      <file href="mobile/6WYdxMGv5MY.png" />
+      <file href="mobile/6h2i2pSVfNZ.png" />
+      <file href="mobile/5vLSr7OnJSE.png" />
+      <file href="mobile/6AjMFKRagzw.png" />
+      <file href="story_content/5d7hFOLmVPC_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5jwcNWdE4hq.js" />
+      <file href="html5/data/js/5uTdZaUHGmE.js" />
+      <file href="html5/data/js/5Zt0X6gG01N.js" />
+      <file href="html5/data/js/63n1S8tWKRv.js" />
+      <file href="html5/data/js/6GSw6qg28Hg.js" />
+      <file href="html5/data/js/6gu6XqRk613.js" />
+      <file href="html5/data/js/6nnDzFUkBPj.js" />
+      <file href="html5/data/js/6oJHjJW76EN.js" />
+      <file href="html5/data/js/6PTNcWafGb7.js" />
+      <file href="html5/data/js/6XV9xVF2tBD.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

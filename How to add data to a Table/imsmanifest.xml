@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6n9GfmZak8o" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">How to add data to a Table</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="How_to_add_data_to_a_Table_ORG">
+    <organization identifier="How_to_add_data_to_a_Table_ORG">
+      <title>How to add data to a Table</title>
+      <item identifier="How_to_add_data_to_a_Table_SCO" isvisible="true" identifierref="__6n9GfmZak8o_RES">
+        <title>How to add data to a Table</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6n9GfmZak8o_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/6F8NfRPV6m8_44100_48_0.mp3" />
+      <file href="mobile/6ceCdesb5B3.png" />
+      <file href="story_content/5jEg3VeFLxk_44100_48_0.mp3" />
+      <file href="mobile/6gQEHiHAl2t.png" />
+      <file href="mobile/5XPk1i6Z87R.png" />
+      <file href="mobile/60Znhvsdj7L.png" />
+      <file href="mobile/6T3strWqWmV.png" />
+      <file href="mobile/5r47tsv6hsE.png" />
+      <file href="story_content/5UoKQGujX9l_44100_48_0.mp3" />
+      <file href="mobile/6BsfImDhXOn.png" />
+      <file href="story_content/6Q0o3dmC9bR_44100_48_0.mp3" />
+      <file href="mobile/6pbtBBRBwOu.png" />
+      <file href="mobile/5jb7gGs5rEE.png" />
+      <file href="mobile/5aMNLmyL447.png" />
+      <file href="mobile/607CE11d8as.png" />
+      <file href="mobile/6pxVqgOrnO3.png" />
+      <file href="story_content/5dJzL29v1vk_44100_48_0.mp3" />
+      <file href="mobile/6Ltu2iPrekh.png" />
+      <file href="story_content/67kIBOn0GGu_44100_48_0.mp3" />
+      <file href="mobile/5wmRwi0NzGc.png" />
+      <file href="story_content/5YljeNz9x8B_44100_48_0.mp3" />
+      <file href="story_content/6mHezrfYu8t_44100_48_0.mp3" />
+      <file href="mobile/6nsz7UWLGlI.png" />
+      <file href="mobile/6XR1ydm39K3.png" />
+      <file href="mobile/6ihFtKk2VsH.png" />
+      <file href="mobile/5kMmpBRP3lZ.png" />
+      <file href="mobile/5dBoaMGD6LQ.png" />
+      <file href="mobile/6kTQlmFeIPL.png" />
+      <file href="story_content/61F90g9MAbh_44100_48_0.mp3" />
+      <file href="mobile/5wAAIE5wyyg.png" />
+      <file href="mobile/6C9dz0mOAoH.jpg" />
+      <file href="mobile/5f54yVpLezX.png" />
+      <file href="mobile/5sbnHVvEdpO.png" />
+      <file href="mobile/6o7EMfpG6SK.png" />
+      <file href="mobile/6TpWI9dXbfM.png" />
+      <file href="mobile/6WErVdTJcga.png" />
+      <file href="mobile/6WYdxMGv5MY.png" />
+      <file href="mobile/6h2i2pSVfNZ.png" />
+      <file href="mobile/5vLSr7OnJSE.png" />
+      <file href="mobile/6AjMFKRagzw.png" />
+      <file href="story_content/5d7hFOLmVPC_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5fFjfWbkpLS.js" />
+      <file href="html5/data/js/5hVYP1HfbCg.js" />
+      <file href="html5/data/js/5i6P1JNHGaB.js" />
+      <file href="html5/data/js/5jweA1TUB74.js" />
+      <file href="html5/data/js/5m0h6NOMVNo.js" />
+      <file href="html5/data/js/5t0jsnk3GiZ.js" />
+      <file href="html5/data/js/5xQEzHDFpFm.js" />
+      <file href="html5/data/js/5XUuWZ1Eu1q.js" />
+      <file href="html5/data/js/610MTkQKg7u.js" />
+      <file href="html5/data/js/619wGRj2VYs.js" />
+      <file href="html5/data/js/68gqdCNQEZN.js" />
+      <file href="html5/data/js/6b3udcYAL37.js" />
+      <file href="html5/data/js/6Bg5Q401hG4.js" />
+      <file href="html5/data/js/6CNxcpuMbXo.js" />
+      <file href="html5/data/js/6HSRzGuzBM3.js" />
+      <file href="html5/data/js/6jGav9BBytF.js" />
+      <file href="html5/data/js/6okAmDhh7Jv.js" />
+      <file href="html5/data/js/6rlAgPkJpQ2.js" />
+      <file href="html5/data/js/6VOQ1QJSv9F.js" />
+      <file href="html5/data/js/6XjYFgcKied.js" />
+      <file href="html5/data/js/6ZyPXwjxYpa.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

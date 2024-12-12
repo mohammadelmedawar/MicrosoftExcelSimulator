@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6jDF7n97TT0" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">How to inspect a workbook</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="How_to_inspect_a_workbook_ORG">
+    <organization identifier="How_to_inspect_a_workbook_ORG">
+      <title>How to inspect a workbook</title>
+      <item identifier="How_to_inspect_a_workbook_SCO" isvisible="true" identifierref="__6jDF7n97TT0_RES">
+        <title>How to inspect a workbook</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6jDF7n97TT0_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/6qcHLOsV29D_44100_48_0.mp3" />
+      <file href="mobile/6lAEEeR7jAK.png" />
+      <file href="mobile/6UpPnSVDCjU_P_0_34_1366_604.png" />
+      <file href="story_content/6jTNmIZYDOe_44100_48_0.mp3" />
+      <file href="mobile/6jHGUDRU2Z0.png" />
+      <file href="mobile/6UGaGf9rIb2_P_0_34_1366_604.png" />
+      <file href="story_content/6QRUh3YY9Rf_44100_48_0.mp3" />
+      <file href="mobile/6JqVHNRdwli.png" />
+      <file href="mobile/6oc4eJJtC3g_P_0_34_1366_604.png" />
+      <file href="story_content/61y9gGMKYZ4_44100_48_0.mp3" />
+      <file href="mobile/6A4rVS5Atph.png" />
+      <file href="mobile/6esUCEDIKON_P_0_34_1366_604.png" />
+      <file href="story_content/6imwAM9rpCr_44100_48_0.mp3" />
+      <file href="mobile/5oiSuxx9I9p.png" />
+      <file href="mobile/6Q6MjZvh9t2_P_0_34_1366_604.png" />
+      <file href="story_content/6QQNf0Gp8Kz_44100_48_0.mp3" />
+      <file href="mobile/60lp4skK537.png" />
+      <file href="mobile/5yDoFCTz7IV_P_0_34_1366_604.png" />
+      <file href="story_content/6i1j6nlr7g2_44100_48_0.mp3" />
+      <file href="mobile/5Vprjad8Lsf.png" />
+      <file href="story_content/5WBq7Db4h3D_44100_48_0.mp3" />
+      <file href="mobile/6DTnG2D60fw.png" />
+      <file href="mobile/6oLY2LqF0jK_P_0_34_1366_604.png" />
+      <file href="story_content/6dvk20T8PFh_44100_48_0.mp3" />
+      <file href="mobile/68m1I6jJoQE.png" />
+      <file href="mobile/6SMf9z10j7e_P_0_34_1366_604.png" />
+      <file href="story_content/6F0mZ77iG06_44100_48_0.mp3" />
+      <file href="mobile/6AiXc9350db.png" />
+      <file href="mobile/6q8iGKj47rM_P_0_34_1366_604.png" />
+      <file href="story_content/5yDxEEt3Hej_44100_48_0.mp3" />
+      <file href="mobile/5xJPBfnoI1B.png" />
+      <file href="mobile/5b3bObH50mG_P_0_34_1366_604.png" />
+      <file href="story_content/5YYXFkiCGf4_44100_48_0.mp3" />
+      <file href="mobile/5fOHXJ1WPE1.png" />
+      <file href="mobile/6C9dz0mOAoH.jpg" />
+      <file href="mobile/5f54yVpLezX.png" />
+      <file href="mobile/5sbnHVvEdpO.png" />
+      <file href="mobile/6o7EMfpG6SK.png" />
+      <file href="mobile/6TpWI9dXbfM.png" />
+      <file href="mobile/6WErVdTJcga.png" />
+      <file href="mobile/6WYdxMGv5MY.png" />
+      <file href="mobile/6h2i2pSVfNZ.png" />
+      <file href="mobile/5vLSr7OnJSE.png" />
+      <file href="mobile/6AjMFKRagzw.png" />
+      <file href="story_content/5d7hFOLmVPC_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5fnVwHQhl28.js" />
+      <file href="html5/data/js/5obNA6SpEw2.js" />
+      <file href="html5/data/js/5pqSlG93EaZ.js" />
+      <file href="html5/data/js/5sTzKQPs4DK.js" />
+      <file href="html5/data/js/5yqKAgC22Gg.js" />
+      <file href="html5/data/js/6668DtjlZC8.js" />
+      <file href="html5/data/js/67adWceznJQ.js" />
+      <file href="html5/data/js/6laED0urz2g.js" />
+      <file href="html5/data/js/6oPjluxkrhP.js" />
+      <file href="html5/data/js/6qEllBC85EZ.js" />
+      <file href="html5/data/js/6qF871PoCmh.js" />
+      <file href="html5/data/js/6RgMmP5SFDD.js" />
+      <file href="html5/data/js/6YScvfPQuPC.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

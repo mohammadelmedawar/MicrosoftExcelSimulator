@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6jDF7n97TT0" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">How to freeze panes - basic</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="How_to_freeze_panes_-_basic_ORG">
+    <organization identifier="How_to_freeze_panes_-_basic_ORG">
+      <title>How to freeze panes - basic</title>
+      <item identifier="How_to_freeze_panes_-_basic_SCO" isvisible="true" identifierref="__6jDF7n97TT0_RES">
+        <title>How to freeze panes - basic</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6jDF7n97TT0_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/6MwIy1POF8Y_44100_48_0.mp3" />
+      <file href="mobile/5fw4RkxgPhw.png" />
+      <file href="mobile/5rNZBtxjlOo_P_0_34_1366_604.png" />
+      <file href="story_content/6YnLWeCrTk9_44100_48_0.mp3" />
+      <file href="story_content/6b2u3y9BaP7_44100_48_0.mp3" />
+      <file href="mobile/6jn7xKArb45.png" />
+      <file href="mobile/63VLmrqG2qY_P_0_34_1366_604.png" />
+      <file href="story_content/5f1VIyCukJB_44100_48_0.mp3" />
+      <file href="mobile/5eIHhTX3uWC.png" />
+      <file href="mobile/5tDp0JTdBYr_P_0_34_1366_604.png" />
+      <file href="story_content/6SIbczl7nJY_44100_48_0.mp3" />
+      <file href="mobile/5cxNoNf3BIJ.png" />
+      <file href="story_content/5hnVfiYvti9_44100_48_0.mp3" />
+      <file href="mobile/6GzpB9FgQv5.png" />
+      <file href="story_content/5t8Aj2zPkrK_44100_48_0.mp3" />
+      <file href="mobile/5k8jyMW5wgy.png" />
+      <file href="story_content/6dhu1OZN6iS_44100_48_0.mp3" />
+      <file href="mobile/6KaR4kfOH9p.png" />
+      <file href="story_content/67q99nRTVNt_44100_48_0.mp3" />
+      <file href="mobile/5qpc9gNxOp2_P_0_34_1366_604.png" />
+      <file href="story_content/6J7QOzmjJA1_44100_48_0.mp3" />
+      <file href="mobile/5eTd2FBC3y1.png" />
+      <file href="mobile/61kKV1irykA_P_0_34_1366_604.png" />
+      <file href="story_content/5lHFXfCqpmh_44100_48_0.mp3" />
+      <file href="mobile/6GDiNXKaLKN.png" />
+      <file href="story_content/6NVjZKoITLW_44100_48_0.mp3" />
+      <file href="mobile/61NxVxwWvi9.png" />
+      <file href="story_content/6LZeD1qurVM_44100_48_0.mp3" />
+      <file href="mobile/6WscBcIfFkX.png" />
+      <file href="story_content/5meD5KBCl7n_44100_48_0.mp3" />
+      <file href="mobile/6fozYdhHiIV.png" />
+      <file href="story_content/6m8qLbWbwpA_44100_48_0.mp3" />
+      <file href="story_content/67Xy5aJt9s2_44100_48_0.mp3" />
+      <file href="story_content/5c6ZXQPqyZI_44100_48_0.mp3" />
+      <file href="mobile/6mHsIKaL9AI.png" />
+      <file href="mobile/5aKSpP4UScQ_P_0_34_1366_604.png" />
+      <file href="story_content/5nLb8n5ZrpT_44100_48_0.mp3" />
+      <file href="mobile/6Qu0WaGR6PS.png" />
+      <file href="mobile/6K2t44yLanz_P_0_34_1366_604.png" />
+      <file href="story_content/6ceadxdVKPe_44100_48_0.mp3" />
+      <file href="mobile/6CHe3U5zGM2.png" />
+      <file href="mobile/66TxsL0qkHJ.png" />
+      <file href="story_content/5sebJ1R2omx_44100_48_0.mp3" />
+      <file href="mobile/60CyZ9UK9ZZ.png" />
+      <file href="story_content/5vYSYlqjAmA_44100_48_0.mp3" />
+      <file href="mobile/6C9dz0mOAoH.jpg" />
+      <file href="mobile/5f54yVpLezX.png" />
+      <file href="mobile/5sbnHVvEdpO.png" />
+      <file href="mobile/6o7EMfpG6SK.png" />
+      <file href="mobile/6TpWI9dXbfM.png" />
+      <file href="mobile/6WErVdTJcga.png" />
+      <file href="mobile/6WYdxMGv5MY.png" />
+      <file href="mobile/6h2i2pSVfNZ.png" />
+      <file href="mobile/5vLSr7OnJSE.png" />
+      <file href="mobile/6AjMFKRagzw.png" />
+      <file href="story_content/5d7hFOLmVPC_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5eqbpGIHGdq.js" />
+      <file href="html5/data/js/5fizLpUtSdk.js" />
+      <file href="html5/data/js/5lshCJo4egD.js" />
+      <file href="html5/data/js/5pPmsPxNWSc.js" />
+      <file href="html5/data/js/5pzxCjkPwjg.js" />
+      <file href="html5/data/js/5q68DMksbRs.js" />
+      <file href="html5/data/js/5svHinph0Yk.js" />
+      <file href="html5/data/js/5u836vhVfHj.js" />
+      <file href="html5/data/js/5V3YYDLyKq7.js" />
+      <file href="html5/data/js/5ybeL2MJ35R.js" />
+      <file href="html5/data/js/5yiJc1ZEZd7.js" />
+      <file href="html5/data/js/5yjVAEaeZK1.js" />
+      <file href="html5/data/js/60I4RHNzwh7.js" />
+      <file href="html5/data/js/66wUc7W2bGE.js" />
+      <file href="html5/data/js/67xNcbkUZlE.js" />
+      <file href="html5/data/js/680VmOMXPl1.js" />
+      <file href="html5/data/js/68OQ4GXeXI1.js" />
+      <file href="html5/data/js/6bUwni8HHBf.js" />
+      <file href="html5/data/js/6cDde4KmC5i.js" />
+      <file href="html5/data/js/6csRo877i6f.js" />
+      <file href="html5/data/js/6NmqLGcEoNo.js" />
+      <file href="html5/data/js/6ocdtb4bbQg.js" />
+      <file href="html5/data/js/6QcT6HX0SCc.js" />
+      <file href="html5/data/js/6r99mE1hRSm.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
