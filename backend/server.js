@@ -1,11 +1,8 @@
 const express = require('express');
-const fs = require('fs');
 const path = require('path');
+const fs = require('fs');
 const app = express();
 const PORT = 3000;
-
-// Base URL for GitHub Pages
-const BASE_URL = 'https://mohammadelmedawar.github.io/MicrosoftExcelSimulator';
 
 // Directory containing lesson folders
 const lessonsDirectory = path.join(__dirname, '../MicrosoftExcelSimulator');
@@ -31,14 +28,19 @@ app.get('/lesson/:id', (req, res) => {
     return res.status(404).send('Lesson does not exist');
   }
 
-  // Get folder name from mapping
+  // Get the folder name
   const folderName = folderMapping[lessonId];
 
-  // Construct the URL
-  const lessonURL = `${BASE_URL}/${folderName}/story.html`;
+  // Path to the story.html file
+  const filePath = path.join(lessonsDirectory, folderName, 'story.html');
 
-  // Redirect to the constructed URL
-  res.redirect(lessonURL);
+  // Serve the file
+  res.sendFile(filePath, (err) => {
+    if (err) {
+      console.error(err);
+      res.status(404).send('File not found');
+    }
+  });
 });
 
 app.listen(PORT, () => {
